@@ -1,0 +1,362 @@
+<?xml version="1.0"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:dfpvideo="http://api.google.com/dfpvideo" version="2.0">
+  <channel>
+    <dfpvideo:version>2</dfpvideo:version>
+    <atom:link rel="next" href="https://s3-ap-southeast-1.amazonaws.com/ads-mrss.iflix.com/MRSS8545.xml"/>
+    <item>
+      <title>Episodes</title>
+      <pubDate>2018-12-28T03:25:03Z</pubDate>
+      <dfpvideo:keyvalues key="category" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="showId" value="4109" type="string"/>
+      <dfpvideo:keyvalues key="seasonId" value="4116" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bd" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bn" type="string"/>
+      <dfpvideo:keyvalues key="country" value="id" type="string"/>
+      <dfpvideo:keyvalues key="country" value="kh" type="string"/>
+      <dfpvideo:keyvalues key="country" value="lk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mm" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mv" type="string"/>
+      <dfpvideo:keyvalues key="country" value="my" type="string"/>
+      <dfpvideo:keyvalues key="country" value="np" type="string"/>
+      <dfpvideo:keyvalues key="country" value="ph" type="string"/>
+      <dfpvideo:keyvalues key="country" value="pk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="th" type="string"/>
+      <dfpvideo:keyvalues key="contractId" value="15912" type="string"/>
+      <dfpvideo:keyvalues key="studio" value="Hat Trick International" type="string"/>
+      <dfpvideo:keyvalues key="rating" value="TV-MA" type="string"/>
+      <dfpvideo:keyvalues key="channelHub" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="duration" value="1726" type="string"/>
+      <dfpvideo:cuepoints>431,863,1294</dfpvideo:cuepoints>
+      <dfpvideo:closedCaptionUrl language="th" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18517/subtitles/th.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ms" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18517/subtitles/ms.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="km" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18517/subtitles/km.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="id" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18517/subtitles/id.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="vi" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18517/subtitles/vi.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="si" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18517/subtitles/si.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="zs" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18517/subtitles/zs.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="bn" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18517/subtitles/bn.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="en" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18517/subtitles/en.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ne" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18517/subtitles/ne.ttml</dfpvideo:closedCaptionUrl>
+      <media:thumbnail url="https://iflix-images.akamaized.net/560b6ba92eb4a257d9fa9dd4-1532509125747_s_200x300"/>
+      <media:content url="https://iflix-videocdn.akamaized.net/6198e/Episodes_S01_E07_18517_M(18517_ISMUSP)_v2.ism/Episodes_S01_E07_18517_M(18517_ISMUSP)_v2.mpd" duration="1726"/>
+      <dfpvideo:contentID>18517</dfpvideo:contentID>
+      <dfpvideo:lastModifiedDate>1556248283380</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastMediaModifiedDate>1556248283380</dfpvideo:lastMediaModifiedDate>
+      <dfpvideo:ingestUrl type="application/dash+xml" preconditioned="false">https://iflix-videocdn.akamaized.net/6198e/Episodes_S01_E07_18517_M(18517_ISMUSP)_v2.ism/Episodes_S01_E07_18517_M(18517_ISMUSP)_v2.mpd</dfpvideo:ingestUrl>
+    </item>
+    <item>
+      <title>Episodes</title>
+      <pubDate>2018-12-28T03:25:03Z</pubDate>
+      <dfpvideo:keyvalues key="category" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="showId" value="4109" type="string"/>
+      <dfpvideo:keyvalues key="seasonId" value="4116" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bd" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bn" type="string"/>
+      <dfpvideo:keyvalues key="country" value="id" type="string"/>
+      <dfpvideo:keyvalues key="country" value="kh" type="string"/>
+      <dfpvideo:keyvalues key="country" value="lk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mm" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mv" type="string"/>
+      <dfpvideo:keyvalues key="country" value="my" type="string"/>
+      <dfpvideo:keyvalues key="country" value="np" type="string"/>
+      <dfpvideo:keyvalues key="country" value="ph" type="string"/>
+      <dfpvideo:keyvalues key="country" value="pk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="th" type="string"/>
+      <dfpvideo:keyvalues key="contractId" value="15912" type="string"/>
+      <dfpvideo:keyvalues key="studio" value="Hat Trick International" type="string"/>
+      <dfpvideo:keyvalues key="rating" value="TV-MA" type="string"/>
+      <dfpvideo:keyvalues key="channelHub" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="duration" value="1659" type="string"/>
+      <dfpvideo:cuepoints>414,829,1244</dfpvideo:cuepoints>
+      <dfpvideo:closedCaptionUrl language="si" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18514/subtitles/si.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="zs" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18514/subtitles/zs.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="bn" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18514/subtitles/bn.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ne" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18514/subtitles/ne.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ms" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18514/subtitles/ms.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="km" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18514/subtitles/km.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="id" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18514/subtitles/id.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="vi" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18514/subtitles/vi.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="en" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18514/subtitles/en.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="th" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18514/subtitles/th.ttml</dfpvideo:closedCaptionUrl>
+      <media:thumbnail url="https://iflix-images.akamaized.net/560b6ba92eb4a257d9fa9dd4-1532509125747_s_200x300"/>
+      <media:content url="https://iflix-videocdn.akamaized.net/e935e/Episodes_S01_E04_18514_M(18514_ISMUSP)_v2.ism/Episodes_S01_E04_18514_M(18514_ISMUSP)_v2.mpd" duration="1659"/>
+      <dfpvideo:contentID>18514</dfpvideo:contentID>
+      <dfpvideo:lastModifiedDate>1556248283381</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastMediaModifiedDate>1556248283381</dfpvideo:lastMediaModifiedDate>
+      <dfpvideo:ingestUrl type="application/dash+xml" preconditioned="false">https://iflix-videocdn.akamaized.net/e935e/Episodes_S01_E04_18514_M(18514_ISMUSP)_v2.ism/Episodes_S01_E04_18514_M(18514_ISMUSP)_v2.mpd</dfpvideo:ingestUrl>
+    </item>
+    <item>
+      <title>Episodes</title>
+      <pubDate>2018-12-28T03:25:03Z</pubDate>
+      <dfpvideo:keyvalues key="category" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="showId" value="4109" type="string"/>
+      <dfpvideo:keyvalues key="seasonId" value="4116" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bd" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bn" type="string"/>
+      <dfpvideo:keyvalues key="country" value="id" type="string"/>
+      <dfpvideo:keyvalues key="country" value="kh" type="string"/>
+      <dfpvideo:keyvalues key="country" value="lk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mm" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mv" type="string"/>
+      <dfpvideo:keyvalues key="country" value="my" type="string"/>
+      <dfpvideo:keyvalues key="country" value="np" type="string"/>
+      <dfpvideo:keyvalues key="country" value="ph" type="string"/>
+      <dfpvideo:keyvalues key="country" value="pk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="th" type="string"/>
+      <dfpvideo:keyvalues key="contractId" value="15912" type="string"/>
+      <dfpvideo:keyvalues key="studio" value="Hat Trick International" type="string"/>
+      <dfpvideo:keyvalues key="rating" value="TV-MA" type="string"/>
+      <dfpvideo:keyvalues key="channelHub" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="duration" value="1722" type="string"/>
+      <dfpvideo:cuepoints>430,861,1291</dfpvideo:cuepoints>
+      <dfpvideo:closedCaptionUrl language="si" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18513/subtitles/si.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="zs" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18513/subtitles/zs.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="bn" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18513/subtitles/bn.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ne" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18513/subtitles/ne.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ms" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18513/subtitles/ms.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="km" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18513/subtitles/km.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="id" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18513/subtitles/id.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="vi" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18513/subtitles/vi.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="en" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18513/subtitles/en.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="th" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18513/subtitles/th.ttml</dfpvideo:closedCaptionUrl>
+      <media:thumbnail url="https://iflix-images.akamaized.net/560b6ba92eb4a257d9fa9dd4-1532509125747_s_200x300"/>
+      <media:content url="https://iflix-videocdn.akamaized.net/dfdb1/Episodes_S01_E03_18513_M(18513_ISMUSP)_v2.ism/Episodes_S01_E03_18513_M(18513_ISMUSP)_v2.mpd" duration="1722"/>
+      <dfpvideo:contentID>18513</dfpvideo:contentID>
+      <dfpvideo:lastModifiedDate>1556248283382</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastMediaModifiedDate>1556248283382</dfpvideo:lastMediaModifiedDate>
+      <dfpvideo:ingestUrl type="application/dash+xml" preconditioned="false">https://iflix-videocdn.akamaized.net/dfdb1/Episodes_S01_E03_18513_M(18513_ISMUSP)_v2.ism/Episodes_S01_E03_18513_M(18513_ISMUSP)_v2.mpd</dfpvideo:ingestUrl>
+    </item>
+    <item>
+      <title>Teefa In Trouble</title>
+      <pubDate>2018-12-15T00:00:00Z</pubDate>
+      <dfpvideo:keyvalues key="category" value="Romance" type="string"/>
+      <dfpvideo:keyvalues key="showId" value="114777" type="string"/>
+      <dfpvideo:keyvalues key="country" value="pk" type="string"/>
+      <dfpvideo:keyvalues key="contractId" value="14710" type="string"/>
+      <dfpvideo:keyvalues key="studio" value="Artifex Productions" type="string"/>
+      <dfpvideo:keyvalues key="rating" value="PG-13" type="string"/>
+      <dfpvideo:keyvalues key="duration" value="9324" type="string"/>
+      <dfpvideo:cuepoints>900,1800,2700,3600,4500,5400,6300,7200,8100,9000</dfpvideo:cuepoints>
+      <media:thumbnail url="https://iflix-images.akamaized.net/5c209418e4b0a5c4106b5a16-1545639021984_s_200x300"/>
+      <media:content url="https://iflix-videocdn.akamaized.net/a5872/Teefa_In_Trouble_Feature(114777_ISMUSP).ism/Teefa_In_Trouble_Feature(114777_ISMUSP).mpd" duration="9324"/>
+      <dfpvideo:contentID>114777</dfpvideo:contentID>
+      <dfpvideo:lastModifiedDate>1556248283382</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastMediaModifiedDate>1556248283382</dfpvideo:lastMediaModifiedDate>
+      <dfpvideo:ingestUrl type="application/dash+xml" preconditioned="false">https://iflix-videocdn.akamaized.net/a5872/Teefa_In_Trouble_Feature(114777_ISMUSP).ism/Teefa_In_Trouble_Feature(114777_ISMUSP).mpd</dfpvideo:ingestUrl>
+    </item>
+    <item>
+      <title>Episodes</title>
+      <pubDate>2018-12-28T03:19:02Z</pubDate>
+      <dfpvideo:keyvalues key="category" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="showId" value="4109" type="string"/>
+      <dfpvideo:keyvalues key="seasonId" value="4116" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bd" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bn" type="string"/>
+      <dfpvideo:keyvalues key="country" value="id" type="string"/>
+      <dfpvideo:keyvalues key="country" value="kh" type="string"/>
+      <dfpvideo:keyvalues key="country" value="lk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mm" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mv" type="string"/>
+      <dfpvideo:keyvalues key="country" value="my" type="string"/>
+      <dfpvideo:keyvalues key="country" value="np" type="string"/>
+      <dfpvideo:keyvalues key="country" value="ph" type="string"/>
+      <dfpvideo:keyvalues key="country" value="pk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="th" type="string"/>
+      <dfpvideo:keyvalues key="contractId" value="15912" type="string"/>
+      <dfpvideo:keyvalues key="studio" value="Hat Trick International" type="string"/>
+      <dfpvideo:keyvalues key="rating" value="TV-MA" type="string"/>
+      <dfpvideo:keyvalues key="channelHub" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="duration" value="1724" type="string"/>
+      <dfpvideo:cuepoints>431,862,1293</dfpvideo:cuepoints>
+      <dfpvideo:closedCaptionUrl language="th" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18511/subtitles/th.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ms" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18511/subtitles/ms.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="km" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18511/subtitles/km.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="id" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18511/subtitles/id.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="vi" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18511/subtitles/vi.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="si" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18511/subtitles/si.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="zs" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18511/subtitles/zs.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="bn" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18511/subtitles/bn.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="en" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18511/subtitles/en.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ne" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18511/subtitles/ne.ttml</dfpvideo:closedCaptionUrl>
+      <media:thumbnail url="https://iflix-images.akamaized.net/560b6ba92eb4a257d9fa9dd4-1532509125747_s_200x300"/>
+      <media:content url="https://iflix-videocdn.akamaized.net/12275/Episodes_S01_E01_18511_M(18511_ISMUSP)_v2.ism/Episodes_S01_E01_18511_M(18511_ISMUSP)_v2.mpd" duration="1724"/>
+      <dfpvideo:contentID>18511</dfpvideo:contentID>
+      <dfpvideo:lastModifiedDate>1556248283382</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastMediaModifiedDate>1556248283382</dfpvideo:lastMediaModifiedDate>
+      <dfpvideo:ingestUrl type="application/dash+xml" preconditioned="false">https://iflix-videocdn.akamaized.net/12275/Episodes_S01_E01_18511_M(18511_ISMUSP)_v2.ism/Episodes_S01_E01_18511_M(18511_ISMUSP)_v2.mpd</dfpvideo:ingestUrl>
+    </item>
+    <item>
+      <title>Episodes</title>
+      <pubDate>2018-12-28T03:25:03Z</pubDate>
+      <dfpvideo:keyvalues key="category" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="showId" value="4109" type="string"/>
+      <dfpvideo:keyvalues key="seasonId" value="4116" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bd" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bn" type="string"/>
+      <dfpvideo:keyvalues key="country" value="id" type="string"/>
+      <dfpvideo:keyvalues key="country" value="kh" type="string"/>
+      <dfpvideo:keyvalues key="country" value="lk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mm" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mv" type="string"/>
+      <dfpvideo:keyvalues key="country" value="my" type="string"/>
+      <dfpvideo:keyvalues key="country" value="np" type="string"/>
+      <dfpvideo:keyvalues key="country" value="ph" type="string"/>
+      <dfpvideo:keyvalues key="country" value="pk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="th" type="string"/>
+      <dfpvideo:keyvalues key="contractId" value="15912" type="string"/>
+      <dfpvideo:keyvalues key="studio" value="Hat Trick International" type="string"/>
+      <dfpvideo:keyvalues key="rating" value="TV-MA" type="string"/>
+      <dfpvideo:keyvalues key="channelHub" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="duration" value="1644" type="string"/>
+      <dfpvideo:cuepoints>411,822,1233</dfpvideo:cuepoints>
+      <dfpvideo:closedCaptionUrl language="th" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18516/subtitles/th.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ms" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18516/subtitles/ms.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="km" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18516/subtitles/km.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="id" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18516/subtitles/id.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="vi" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18516/subtitles/vi.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="si" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18516/subtitles/si.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="zs" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18516/subtitles/zs.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="bn" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18516/subtitles/bn.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="en" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18516/subtitles/en.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ne" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18516/subtitles/ne.ttml</dfpvideo:closedCaptionUrl>
+      <media:thumbnail url="https://iflix-images.akamaized.net/560b6ba92eb4a257d9fa9dd4-1532509125747_s_200x300"/>
+      <media:content url="https://iflix-videocdn.akamaized.net/013ce/Episodes_S01_E06_18516_M(18516_ISMUSP)_v2.ism/Episodes_S01_E06_18516_M(18516_ISMUSP)_v2.mpd" duration="1644"/>
+      <dfpvideo:contentID>18516</dfpvideo:contentID>
+      <dfpvideo:lastModifiedDate>1556248283383</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastMediaModifiedDate>1556248283383</dfpvideo:lastMediaModifiedDate>
+      <dfpvideo:ingestUrl type="application/dash+xml" preconditioned="false">https://iflix-videocdn.akamaized.net/013ce/Episodes_S01_E06_18516_M(18516_ISMUSP)_v2.ism/Episodes_S01_E06_18516_M(18516_ISMUSP)_v2.mpd</dfpvideo:ingestUrl>
+    </item>
+    <item>
+      <title>Episodes</title>
+      <pubDate>2018-12-28T03:25:03Z</pubDate>
+      <dfpvideo:keyvalues key="category" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="showId" value="4109" type="string"/>
+      <dfpvideo:keyvalues key="seasonId" value="4116" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bd" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bn" type="string"/>
+      <dfpvideo:keyvalues key="country" value="id" type="string"/>
+      <dfpvideo:keyvalues key="country" value="kh" type="string"/>
+      <dfpvideo:keyvalues key="country" value="lk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mm" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mv" type="string"/>
+      <dfpvideo:keyvalues key="country" value="my" type="string"/>
+      <dfpvideo:keyvalues key="country" value="np" type="string"/>
+      <dfpvideo:keyvalues key="country" value="ph" type="string"/>
+      <dfpvideo:keyvalues key="country" value="pk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="th" type="string"/>
+      <dfpvideo:keyvalues key="contractId" value="15912" type="string"/>
+      <dfpvideo:keyvalues key="studio" value="Hat Trick International" type="string"/>
+      <dfpvideo:keyvalues key="rating" value="TV-MA" type="string"/>
+      <dfpvideo:keyvalues key="channelHub" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="duration" value="1585" type="string"/>
+      <dfpvideo:cuepoints>396,792,1188</dfpvideo:cuepoints>
+      <dfpvideo:closedCaptionUrl language="th" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18512/subtitles/th.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ms" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18512/subtitles/ms.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="km" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18512/subtitles/km.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="id" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18512/subtitles/id.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="vi" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18512/subtitles/vi.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="si" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18512/subtitles/si.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="zs" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18512/subtitles/zs.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="bn" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18512/subtitles/bn.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="en" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18512/subtitles/en.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ne" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18512/subtitles/ne.ttml</dfpvideo:closedCaptionUrl>
+      <media:thumbnail url="https://iflix-images.akamaized.net/560b6ba92eb4a257d9fa9dd4-1532509125747_s_200x300"/>
+      <media:content url="https://iflix-videocdn.akamaized.net/ac923/Episodes_S01_E02_18512_(18512_ISMUSP)_v2.ism/Episodes_S01_E02_18512_(18512_ISMUSP)_v2.mpd" duration="1585"/>
+      <dfpvideo:contentID>18512</dfpvideo:contentID>
+      <dfpvideo:lastModifiedDate>1556248283383</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastMediaModifiedDate>1556248283383</dfpvideo:lastMediaModifiedDate>
+      <dfpvideo:ingestUrl type="application/dash+xml" preconditioned="false">https://iflix-videocdn.akamaized.net/ac923/Episodes_S01_E02_18512_(18512_ISMUSP)_v2.ism/Episodes_S01_E02_18512_(18512_ISMUSP)_v2.mpd</dfpvideo:ingestUrl>
+    </item>
+    <item>
+      <title>Chennai On College Rules</title>
+      <pubDate>2019-04-26T02:17:01Z</pubDate>
+      <dfpvideo:keyvalues key="category" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="showId" value="197710" type="string"/>
+      <dfpvideo:keyvalues key="country" value="lk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mv" type="string"/>
+      <dfpvideo:keyvalues key="country" value="my" type="string"/>
+      <dfpvideo:keyvalues key="contractId" value="16826" type="string"/>
+      <dfpvideo:keyvalues key="studio" value="Put Chutney (Culture Machine)" type="string"/>
+      <dfpvideo:keyvalues key="rating" value="G" type="string"/>
+      <dfpvideo:keyvalues key="duration" value="299" type="string"/>
+      <dfpvideo:cuepoints/>
+      <media:thumbnail url="https://iflix-images.akamaized.net/5cbd681de4b0d897abf350f3-1555916836757_s_200x300"/>
+      <media:content url="https://iflix-videocdn.akamaized.net/aae22/Chennai_On_College_Rules(197710_ISMUSP).ism/Chennai_On_College_Rules(197710_ISMUSP).mpd" duration="299"/>
+      <dfpvideo:contentID>197710</dfpvideo:contentID>
+      <dfpvideo:lastModifiedDate>1556248283383</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastMediaModifiedDate>1556248283383</dfpvideo:lastMediaModifiedDate>
+      <dfpvideo:ingestUrl type="application/dash+xml" preconditioned="false">https://iflix-videocdn.akamaized.net/aae22/Chennai_On_College_Rules(197710_ISMUSP).ism/Chennai_On_College_Rules(197710_ISMUSP).mpd</dfpvideo:ingestUrl>
+    </item>
+    <item>
+      <title>Episodes</title>
+      <pubDate>2018-12-28T03:25:03Z</pubDate>
+      <dfpvideo:keyvalues key="category" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="showId" value="4109" type="string"/>
+      <dfpvideo:keyvalues key="seasonId" value="4116" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bd" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bn" type="string"/>
+      <dfpvideo:keyvalues key="country" value="id" type="string"/>
+      <dfpvideo:keyvalues key="country" value="kh" type="string"/>
+      <dfpvideo:keyvalues key="country" value="lk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mm" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mv" type="string"/>
+      <dfpvideo:keyvalues key="country" value="my" type="string"/>
+      <dfpvideo:keyvalues key="country" value="np" type="string"/>
+      <dfpvideo:keyvalues key="country" value="ph" type="string"/>
+      <dfpvideo:keyvalues key="country" value="pk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="th" type="string"/>
+      <dfpvideo:keyvalues key="contractId" value="15912" type="string"/>
+      <dfpvideo:keyvalues key="studio" value="Hat Trick International" type="string"/>
+      <dfpvideo:keyvalues key="rating" value="TV-MA" type="string"/>
+      <dfpvideo:keyvalues key="channelHub" value="Comedy" type="string"/>
+      <dfpvideo:keyvalues key="duration" value="1713" type="string"/>
+      <dfpvideo:cuepoints>428,856,1284</dfpvideo:cuepoints>
+      <dfpvideo:closedCaptionUrl language="th" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18515/subtitles/th.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ms" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18515/subtitles/ms.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="km" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18515/subtitles/km.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="id" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18515/subtitles/id.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="vi" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18515/subtitles/vi.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="si" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18515/subtitles/si.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="zs" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18515/subtitles/zs.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="bn" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18515/subtitles/bn.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="en" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18515/subtitles/en.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="ne" type="application/ttaf+xml">https://cinema.iflix.com/my/media/18515/subtitles/ne.ttml</dfpvideo:closedCaptionUrl>
+      <media:thumbnail url="https://iflix-images.akamaized.net/560b6ba92eb4a257d9fa9dd4-1532509125747_s_200x300"/>
+      <media:content url="https://iflix-videocdn.akamaized.net/b4c14/Episodes_S01_E05_18515_(18515_ISMUSP)_v2.ism/Episodes_S01_E05_18515_(18515_ISMUSP)_v2.mpd" duration="1713"/>
+      <dfpvideo:contentID>18515</dfpvideo:contentID>
+      <dfpvideo:lastModifiedDate>1556248283385</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastMediaModifiedDate>1556248283385</dfpvideo:lastMediaModifiedDate>
+      <dfpvideo:ingestUrl type="application/dash+xml" preconditioned="false">https://iflix-videocdn.akamaized.net/b4c14/Episodes_S01_E05_18515_(18515_ISMUSP)_v2.ism/Episodes_S01_E05_18515_(18515_ISMUSP)_v2.mpd</dfpvideo:ingestUrl>
+    </item>
+    <item>
+      <title>The Politician’s Husband</title>
+      <pubDate>2019-04-26T03:10:01Z</pubDate>
+      <dfpvideo:keyvalues key="category" value="Drama" type="string"/>
+      <dfpvideo:keyvalues key="showId" value="17133" type="string"/>
+      <dfpvideo:keyvalues key="seasonId" value="17145" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bd" type="string"/>
+      <dfpvideo:keyvalues key="country" value="bn" type="string"/>
+      <dfpvideo:keyvalues key="country" value="id" type="string"/>
+      <dfpvideo:keyvalues key="country" value="kh" type="string"/>
+      <dfpvideo:keyvalues key="country" value="lk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mm" type="string"/>
+      <dfpvideo:keyvalues key="country" value="mv" type="string"/>
+      <dfpvideo:keyvalues key="country" value="my" type="string"/>
+      <dfpvideo:keyvalues key="country" value="pk" type="string"/>
+      <dfpvideo:keyvalues key="country" value="vn" type="string"/>
+      <dfpvideo:keyvalues key="contractId" value="16555" type="string"/>
+      <dfpvideo:keyvalues key="studio" value="" type="string"/>
+      <dfpvideo:keyvalues key="rating" value="TV-MA" type="string"/>
+      <dfpvideo:keyvalues key="duration" value="3485" type="string"/>
+      <dfpvideo:cuepoints>497,995,1493,1991,2489,2987,3484</dfpvideo:cuepoints>
+      <dfpvideo:closedCaptionUrl language="en" type="application/ttaf+xml">https://cinema.iflix.com/my/media/183015/subtitles/en.ttml</dfpvideo:closedCaptionUrl>
+      <dfpvideo:closedCaptionUrl language="vi" type="application/ttaf+xml">https://cinema.iflix.com/my/media/183015/subtitles/vi.ttml</dfpvideo:closedCaptionUrl>
+      <media:thumbnail url="https://iflix-images.akamaized.net/5c94603fe4b0bda0b41bc9e9-1553227839927_s_200x300"/>
+      <media:content url="https://iflix-videocdn.akamaized.net/cd32e/The_Politicians_Husband_(183015_ISMUSP).ism/The_Politicians_Husband_(183015_ISMUSP).mpd" duration="3485"/>
+      <dfpvideo:contentID>183015</dfpvideo:contentID>
+      <dfpvideo:lastModifiedDate>1556248283386</dfpvideo:lastModifiedDate>
+      <dfpvideo:lastMediaModifiedDate>1556248283386</dfpvideo:lastMediaModifiedDate>
+      <dfpvideo:ingestUrl type="application/dash+xml" preconditioned="false">https://iflix-videocdn.akamaized.net/cd32e/The_Politicians_Husband_(183015_ISMUSP).ism/The_Politicians_Husband_(183015_ISMUSP).mpd</dfpvideo:ingestUrl>
+    </item>
+  </channel>
+</rss>
